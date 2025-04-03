@@ -1,0 +1,9 @@
+{
+    "server": {
+        "baseDir": ["./src", "./build/contracts"]
+    },
+    "files": ["./src/**/*.{html,js,css}"],
+    "watchOptions": {
+        "ignored": "node_modules"
+    }
+}
